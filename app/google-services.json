@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "665521932085",
+    "firebase_url": "https://realtimedatabase-f453a-default-rtdb.firebaseio.com",
+    "project_id": "realtimedatabase-f453a",
+    "storage_bucket": "realtimedatabase-f453a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665521932085:android:80b86ff59f799a45fdee7c",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXjvvawypqjgnOuQao5C-01VwjxcZVBZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665521932085:android:1fa5841adb3ea6b7fdee7c",
+        "android_client_info": {
+          "package_name": "com.example.testeautenticacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXjvvawypqjgnOuQao5C-01VwjxcZVBZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
